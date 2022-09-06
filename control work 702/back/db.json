@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Сохиб Курбо",
+      "salary": 800,
+      "increase": false,
+      "ris": false,
+      "id": 1
+    },
+    {
+      "name": "Шахзод Хамидов",
+      "salary": 3000,
+      "increase": false,
+      "rise": false,
+      "id": 2
+    },
+    {
+      "increase": false,
+      "rise": false,
+      "name": "NeonYT",
+      "salary": 123123,
+      "id": 3
+    },
+    {
+      "increase": false,
+      "rise": false,
+      "name": "murch",
+      "salary": 400,
+      "id": 4
+    },{
+      "name": "Шахзод Хамидов",
+      "salary": 3000,
+      "increase": false,
+      "rise": false,
+      "id": 5
+    },
+    {
+      "increase": false,
+      "rise": false,
+      "name": "NeonYT",
+      "salary": 900,
+      "id": 6
+    },
+    {
+      "increase": false,
+      "rise": false,
+      "name": "murch",
+      "salary": 1222,
+      "id": 7
+    }
+  ]
+}

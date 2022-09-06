@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    <div class="block_top">
+        <h1>Учет сотрудников в компании WePro</h1><br>  
+    </div>
+    <main>
+        <div class="main_top">
+            <input type="text" name="search" class="search" id="">
+            <div class="btns">
+                <button class="vse">Все сотрудники</button>
+                <button class="povisa">На повышение</button>
+                <button class="filo">З/П больше 1000$</button>
+            </div>
+        </div>
+
+
+        <div class="in_main">
+
+        </div>
+
+
+        <div class="main_bot">
+            <h1>Добавьте нового сотрудника</h1>
+            <form name="form">
+                <input type="text" name="name" id="name" placeholder="Как его зовут?">
+                <input type="text" name="salary" id="salary" placeholder="З/П в $?">
+                <button>Добавить</button>
+            </form>
+        </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+</html>
